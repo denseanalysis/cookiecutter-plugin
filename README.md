@@ -1,5 +1,7 @@
 # cookiecutter-plugin
 
+![TravisCI Status](https://travis-ci.org/denseanalysis/cookiecutter-plugin.svg?branch=master)
+
 [Cookiecutter](https://github.com/audreyr/cookiecutter) template for creating a [*DENSEanalysis*](https://github.com/denseanalysis/denseanalysis) plugin.
 
 * Github repository: https://github.com/denseanalysis/cookiecutter-plugin
